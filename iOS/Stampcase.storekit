@@ -1,0 +1,31 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "0",
+      "localizations": [
+        {
+          "description": "Series-completion checklist and catalog value notes",
+          "displayName": "Stampcase Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.stampcase.pro",
+      "referenceName": "Stampcase Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US",
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
